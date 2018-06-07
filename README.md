@@ -10,6 +10,11 @@
 
 ---
 
+## More:
+* [Search on Arxiv Sanity](http://www.arxiv-sanity.com/search?q=cs.CL+reinforce)
+
+---
+
 ## Some Basic Materials:
 * [RL](https://github.com/Shujian2015/FreeML/blob/master/README.md#reinforcement-learning) 
 * [NLP](https://github.com/Shujian2015/FreeML/blob/master/README.md#natural-language-processing) 
