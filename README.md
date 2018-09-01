@@ -25,6 +25,8 @@
 ---
 
 ## More:
+
+* [Search on Arxiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=cs.CL&terms-0-field=all&terms-1-operator=AND&terms-1-term=reinforce&terms-1-field=abstract&classification-computer_science=y&classification-physics_archives=all&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first)
 * [Search on Arxiv Sanity](http://www.arxiv-sanity.com/search?q=cs.CL+reinforce)
 
 ---
